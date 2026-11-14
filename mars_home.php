@@ -12,7 +12,8 @@
     <header>
         <nav>           
             <a href="mars_home.php">Home</a>
-            <a href="mars_app.php">Pilot Application</a>             
+            <a href="mars_app.php">Pilot Application</a>  
+            <a href="mars_countdown.php">Countdown</a>                 
         </nav>
 
         <h1>Welcome to Trop Luxury Space Cruise Ships</h1>

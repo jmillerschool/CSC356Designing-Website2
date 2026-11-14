@@ -43,4 +43,10 @@ function validateForm()
     }
 
     return isValid;
+
+    // script for countdown
+    setTimeout(() => 
+        {
+            location.reload();            
+        },5000); // 5 seconds reloads
 }
